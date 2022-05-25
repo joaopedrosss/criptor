@@ -1,0 +1,17 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+textarea{
+    padding:1em;
+}
+.button-wrap{
+    padding:1em;
+    align-items: flex-start;
+}
+#output{
+    padding:1em;
+    border: 1px solid black;
+    Width: 17em;
+    height: 4em;
+}
+
