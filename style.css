@@ -15,7 +15,7 @@ textarea{
     background: #F3F5FC;
     border:none;
     resize: none;
-
+    /*dimesnsions and positions*/
     width:680px;
     height:288px;
 }
@@ -24,6 +24,7 @@ textarea{
 .botoes{
     padding:1em;
     align-items: flex-start;
+
 }
 
 .u-botao{
@@ -51,10 +52,15 @@ textarea{
 .output{
     padding:1em;
     border: 1px solid black;
-    Width: 400px;
-    height: 944px;
+    Width: 16em;
+    height: 35em;
     border-radius:32px;
     background: #FFFFFF;
+
+    position:absolute;
+    top:40px;
+    left:1000px;
+
 }
 
 /*
